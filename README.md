@@ -55,8 +55,8 @@ root/
 ### 1. 저장소 복제
 
 ```bash
-git clone https://github.com/YU-AIProject-26/[repository-name].git
-cd [repository-name]
+git clone https://github.com/YU-AIProject-26/Acta.git
+cd Acta
 ```
 
 ---
